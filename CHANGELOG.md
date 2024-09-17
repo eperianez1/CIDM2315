@@ -5,4 +5,7 @@
 
 9/13/2024
 -Uploaded Homework2.cs file
+
+9/16/2024
+-Uploaded Homework3.cs file
  
