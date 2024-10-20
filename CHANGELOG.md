@@ -17,3 +17,8 @@
 
 10/12/2024
 -Uploaded Homework6.cs file
+
+10/19/2024
+-Uploaded Homework7.cs file
+
+
