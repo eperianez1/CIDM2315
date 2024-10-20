@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-       
+       //QUESTION 2
        
         Customer Alice = new Customer(110, "Alice", 28);
         Alice.PrintCusInfo();
